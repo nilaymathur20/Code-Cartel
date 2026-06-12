@@ -1,0 +1,8 @@
+opencv-python
+ultralytics
+numpy
+pillow
+pandas
+openpyxl
+pygame-ce
+google-genai
